@@ -41,8 +41,12 @@ export default function CountryDetails() {
           }}
         >
           <div>
-            <p>🏙️ Capital: Berlin</p>
-            <p>🗺️ Continente: Europe</p>
+            <p>
+              🏙️ <strong>Capital:</strong> Berlin
+            </p>
+            <p>
+              🗺️ <strong>Continente: </strong> Europe
+            </p>
             <p>👨‍👩‍👧‍👦 População: 83.2M</p>
             <p>
               🗣️ Línguas faladas:
