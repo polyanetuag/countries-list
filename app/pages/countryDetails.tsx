@@ -17,7 +17,6 @@ export default function CountryDetails() {
       <div style={{ width: "100%", margin: "auto", maxWidth: "800px" }}>
         <div
           style={{
-            // padding: "20px",
             borderRadius: "10px",
           }}
         >
