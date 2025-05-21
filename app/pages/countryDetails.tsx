@@ -77,7 +77,7 @@ export default function CountryDetails() {
           />
         </div>
 
-        <div>
+        {/* <div>
           <div>
             <h2 className="font-semibold mt-2 flex py-4">
               Países que fazem fronteira com a Alemanha
@@ -91,7 +91,7 @@ export default function CountryDetails() {
             <CountryCard />
             <CountryCard />
           </div>
-        </div>
+        </div> */}
       </div>
     </>
   );
