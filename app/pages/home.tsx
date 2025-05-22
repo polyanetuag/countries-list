@@ -24,24 +24,26 @@ export default function Home() {
   }, []);
 
   return (
-    <ul className="flex flex-wrap justify-center items-center mt-8">
-      {countryList.map(
-        (item: {
-          name: { common: string };
-          flags: { png: string };
-          cca2: string;
-        }) => {
-          return (
-            <li key={item.name.common}>
-              <CountryCard
-                name={item.name.common}
-                flag={item.flags.png}
-                code={item.cca2}
-              />
-            </li>
-          );
-        }
-      )}
-    </ul>
+    <div className="container ">
+      <ul className="flex flex-wrap justify-center items-center mt-8">
+        {countryList.map(
+          (item: {
+            name: { common: string };
+            flags: { png: string };
+            cca2: string;
+          }) => {
+            return (
+              <li key={item.name.common}>
+                <CountryCard
+                  name={item.name.common}
+                  flag={item.flags.png}
+                  code={item.cca2}
+                />
+              </li>
+            );
+          }
+        )}
+      </ul>
+    </div>
   );
 }
