@@ -9,7 +9,7 @@ type CountryCardProps = {
 export function CountryCard({ name, flag, code }: CountryCardProps) {
   return (
     <Link
-      to="/country-details"
+      to={`/country-details/${code}`}
       className="p-4 bg-white rounded-lg m-4 max-w-52 "
     >
       <div className="">
