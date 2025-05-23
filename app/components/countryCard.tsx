@@ -10,7 +10,7 @@ export function CountryCard({ name, flag, code }: CountryCardProps) {
   return (
     <Link
       to={`/country-details/${code}`}
-      className="p-4 bg-white rounded-lg m-4 max-w-52 "
+      className="p-4 bg-white rounded-lg m-4 w-auto "
     >
       <div className="">
         <img className="rounded-lg" src={flag} alt={code} />

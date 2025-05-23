@@ -21,7 +21,7 @@ export function Header() {
             fill="#5C913B"
           />
         </svg>
-        <h1 className="m-2 font-semibold">Países do mundo</h1>
+        <h1 className="m-2 font-semibold">Countries of the world</h1>
       </Link>
     </header>
   );
