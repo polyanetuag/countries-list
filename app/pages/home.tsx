@@ -24,8 +24,8 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="container ">
-      <ul className="flex flex-wrap justify-center items-center mt-8">
+    <div className="contain-layout gap-1">
+      <ul className="flex flex-wrap justify-center ">
         {countryList.map(
           (item: {
             name: { common: string };
