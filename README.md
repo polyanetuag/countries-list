@@ -1,3 +1,15 @@
+<h1 align="center">
+<img src="public/favicon.ico" alt="planet" width="24" height="24" />
+    Countries App
+</h1>
+
+
+<div align="center">
+<!--     <img align="center" width='200' src=> -->
+   
+
+</div>
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
