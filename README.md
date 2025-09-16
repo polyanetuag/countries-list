@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<!--     <img align="center" width='200' src=> -->
+    <img align="center" width='500' src="public/home.png" alt="Countries App Screenshot" />
    
 
 </div>
