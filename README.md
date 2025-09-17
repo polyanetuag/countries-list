@@ -14,7 +14,13 @@
 ## 📝 About
 A React application that displays information about countries using data from the REST Countries API. It features a list of countries and, when selected, it will present details of the country such as population, capital, language, among others
 
-
+## Features
+- **React**: A JavaScript library for building user interfaces.
+- **React Router**: For handling routing within the application.
+- **Vite**: A fast build tool and development server.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **REST Countries API**: To fetch country data.
+- **Responsive Design**: Ensures the application looks good on all devices.
 
 
 ## Getting Started
