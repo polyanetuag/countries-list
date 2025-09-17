@@ -11,15 +11,11 @@
 </div>
 
 
-## Features
+## 📝 About
+A React application that displays information about countries using data from the REST Countries API. It features a list of countries and, when selected, it will present details of the country such as population, capital, language, among others
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+
+
 
 ## Getting Started
 
