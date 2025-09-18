@@ -23,14 +23,25 @@ A React application that displays information about countries using data from th
 - **Responsive Design**: Ensures the application looks good on all devices.
 
 
-## Getting Started
+## ⏱️ Getting Started
 
 ### Installation
 
 Install the dependencies:
 
 ```bash
-npm install
+## clone the repo
+$ git clone https://github.com/polyanetuag/countries-list.git
+
+# enter the project directory
+$ cd countries-list
+
+# install dependencies
+$ npm install or yarn
+
+# start the development server
+$ npm run dev or yarn dev
+
 ```
 
 ### Development
