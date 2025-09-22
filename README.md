@@ -29,8 +29,6 @@ It features a list of countries and, when selected, it will present details of t
 
 ### Installation
 
-Install the dependencies:
-
 ```bash
 ## clone the repo
 $ git clone https://github.com/polyanetuag/countries-list.git
