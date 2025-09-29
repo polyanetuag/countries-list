@@ -6,6 +6,7 @@
 
 <div align="center">
     <img align="center" width='500' src="public/home.png" alt="Countries App Screenshot" />
+    <img align="center" width='400' src="public/details.png" alt="Countries App Screenshot" />
    
 
 </div>
