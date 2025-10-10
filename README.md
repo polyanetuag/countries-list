@@ -31,7 +31,7 @@ It features a list of countries and, when selected, it will present details of t
 ### Installation
 
 ```bash
-## clone the repo
+## clone the repository
 $ git clone https://github.com/polyanetuag/countries-list.git
 
 # enter the project directory
