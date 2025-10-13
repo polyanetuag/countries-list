@@ -19,7 +19,7 @@ It features a list of countries and, when selected, it will present details of t
 
 ## 🚀 Features
 - **[React](https://react.dev/learn)**: A JavaScript library for building user interfaces.
-- **React Router**: For handling routing within the application.
+- **[React Router](https://reactrouter.com/)**: For handling routing within the application.
 - **Vite**: A fast build tool and development server.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **REST Countries API**: To fetch country data.
