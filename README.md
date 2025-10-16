@@ -22,7 +22,7 @@ It features a list of countries and, when selected, it will present details of t
 - **[React Router](https://reactrouter.com/)**: For handling routing within the application.
 - **[Vite](https://vite.dev/guide/)**: A fast build tool and development server.
 - **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for styling.
-- **REST Countries API**: To fetch country data.
+- **[REST Countries API](https://restcountries.com/)**: To fetch country data.
 - **Responsive Design**: Ensures the application looks good on all devices.
 
 
