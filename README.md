@@ -49,4 +49,4 @@ $ npm run dev or yarn dev
 
 ---
 
-Development with ❤️ using React Router.
+Development with ❤️ by Polyane Tuag and using React Router.
