@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="public/favicon.ico" alt="planet" width="24" height="24" />
+<img src="public/favicon.ico" alt="planet" width="32" height="32" />
     Countries App
 </h1>
 
