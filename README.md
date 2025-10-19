@@ -15,7 +15,7 @@
 ## 📝 About
 A **Countries application** that displays information about countries using data from the REST Countries API. 
 
-It features a list of countries and, when selected, it will present details of the country such as population, capital, language and more informations.
+It features a list of countries and when selected, it will present details of the country such as population, capital, language and more informations.
 
 ## 🚀 Features
 - **[React](https://react.dev/learn)**: A JavaScript library for building user interfaces.
