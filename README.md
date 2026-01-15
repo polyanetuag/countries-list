@@ -23,7 +23,7 @@ It features a list of countries and when selected, it will present details of th
 - **[Vite](https://vite.dev/guide/)**: A fast build tool and development server.
 - **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for styling.
 - **[REST Countries API](https://restcountries.com/)**: To fetch country data.
-- **Responsive Design**: Ensures the application looks good on all devices.
+- **[Responsive Design](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design)**: Ensures the application looks good on all devices.
 
 
 ## ⏱️ Getting Started
