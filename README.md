@@ -34,7 +34,7 @@ It features a list of countries and when selected, it will present details of th
 # clone the repository
 $ git clone https://github.com/polyanetuag/countries-list.git
 
-# enter the project directory
+# enter the project
 $ cd countries-list
 
 # install dependencies
