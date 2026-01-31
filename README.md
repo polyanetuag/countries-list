@@ -37,7 +37,7 @@ $ git clone https://github.com/polyanetuag/countries-list.git
 # enter the project
 $ cd countries-list
 
-# install dependencies
+# install the dependencies
 $ npm install or yarn
 
 # start the development server
