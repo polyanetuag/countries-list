@@ -13,7 +13,7 @@
 
 
 ## 📝 About
-A **Countries Application** that displays information about countries using data from the *[REST Countries API](https://restcountries.com/)*. 
+A **Countries App** that displays information about countries using data from the *[REST Countries API](https://restcountries.com/)*. 
 
 It features a list of countries and when selected, it will present details of the country such as population, capital, language and more informations.
 
